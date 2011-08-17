@@ -10,5 +10,6 @@ public class hello extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         //Kamal Commented
+        //Comment Added from Github editor
     }
 }
